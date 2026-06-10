@@ -2,3 +2,17 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+// Custom Header Color Override
+.page-header {
+  background-color: #0a192f; /* Fallback color */
+  background-image: linear-gradient(120deg, #1b365d, #0a192f); /* Changes the gradient */
+}
+
+// Custom Button Border Colors (Optional - matches the new header look)
+.btn {
+  border-color: rgba(255, 255, 255, 0.4) !important;
+  &:hover {
+    background-color: rgba(255, 255, 255, 0.15) !important;
+  }
+}
