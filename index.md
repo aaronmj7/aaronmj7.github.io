@@ -1,123 +1,44 @@
+# [Your Name] | MSc Data Science Graduate & Aspiring Actuary
+**Location:** UK | **Credentials:** MSc Data Science, IFoA CS1 (April Sitting)
+**Links:** [LinkedIn](YOUR_LINKEDIN_URL) | [GitHub](https://github.com/YOUR_USERNAME) | [Email](mailto:your.email@example.com)
+
 ---
-layout: default
+
+## 🎯 Professional Profile
+A highly analytical MSc Data Science graduate combining advanced predictive modeling, machine learning, and data engineering skills with foundational actuarial principles (IFoA CS1). Specializing in statistical modeling, time-series forecasting, and risk interpretation to drive data-informed decisions in actuarial and risk analytics roles.
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## 🛠️ Technical Skillset
+*   **Actuarial & Statistics:** Time-Series Analysis, Risk Forecasting, IFoA CS1 Theory, Hypothesis Testing, GLMs.
+*   **Data Science & ML:** Python (Scikit-Learn, Statsmodels), R, Predictive Modeling, Clustering (GMM, K-Means), Deep Learning (LSTM).
+*   **Data Engineering & Analytics:** SQL, Data Preprocessing, Feature Engineering, Power BI, Tableau.
 
-[Link to another page](./another-page.html).
+---
 
-There should be whitespace between paragraphs.
+## 🧪 Featured Projects
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### 📈 Financial Market Forecasting & Risk Analysis
+*Developed predictive forecasting models using historical market data to analyze asset price movements and assess market risk.*
+*   **The Approach:** Conducted intensive time-series analysis, stationarity testing, and data preprocessing to isolate temporal trends and predictive macro factors.
+*   **Actuarial Impact:** Evaluated model robustness using statistical error metrics and rigorous sensitivity analysis to determine forecasting reliability under shifting market regimes.
+*   **Data Visualization:** Built dynamic **Power BI** dashboards to effectively communicate asset trends, investment insights, and model risk metrics to stakeholders.
+*   **Tech Stack:** `Python` | `Time-Series Analysis` | `Power BI` | `Sensitivity Analysis`
 
-# Header 1
+### 🤖 Comparative Study of ARIMA and LSTM Models on Volatile Datasets
+*A comparative benchmark study evaluating traditional econometric methods against deep learning approaches for financial time-series forecasting.*
+*   **The Approach:** Modelled complex seasonality and structural volatility across diverse financial datasets using classical ARIMA and deep learning LSTM architectures.
+*   **Actuarial Impact:** Analyzed model performance across varying high- and low-volatility environments, directly highlighting how model selection impacts asset risk forecasting and parameter uncertainty.
+*   **Tech Stack:** `Python` | `ARIMA` | `LSTM` | `Statistical Error Metrics` | `Financial Risk`
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### 🏘️ Rental Portfolio Segmentation: A Comparative Clustering Study
+*Applied unsupervised machine learning architectures to a large-scale property rental dataset to isolate risk segments and behavioral cohorts.*
+*   **The Approach:** Executed rigorous exploratory data analysis (EDA) to map dependencies across quantitative variables, followed by comparative clustering using Gaussian Mixture Models (GMM) and K-Means.
+*   **Actuarial Impact:** Assessed clustering stability using silhouette profiling and visual cluster diagnostics, demonstrating how model selection alters portfolio segmentation and tail-risk interpretation.
+*   **Tech Stack:** `Python` | `Gaussian Mixture Models` | `K-Means` | `Cluster Diagnostics` | `Risk Segmentation`
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+### 🎬 Predictive Rating Engine & Feature Importance Analysis
+*Built a statistical machine learning pipeline to analyze user behavior, preference trends, and feature interactions within large-scale text/categorical datasets.*
+*   **The Approach:** Engineered high-dimensional features from unstructured user tags and categorical genres to train predictive rating models.
+*   **Actuarial Impact:** Utilized feature importance metrics and statistical error analysis to isolate key drivers of user patterns, translating raw data into quantifiable trend insights.
+*   **Tech Stack:** `Python` | `Feature Engineering` | `Predictive Modeling` | `Statistical Analysis`
