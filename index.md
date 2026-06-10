@@ -1,6 +1,11 @@
-# [Your Name] | MSc Data Science Graduate & Aspiring Actuary
-**Location:** UK | **Credentials:** MSc Data Science, IFoA CS1 (April Sitting)
-**Links:** [LinkedIn](YOUR_LINKEDIN_URL) | [GitHub](https://github.com/YOUR_USERNAME) | [Email](mailto:your.email@example.com)
+---
+layout: default
+title: Aaron Modiyil Joseph
+description: MSc Data Science Graduate & Aspiring Actuary
+---
+
+**Location:** Watford, London, UK | **Credentials:** MSc Data Science, IFoA CS1 (April Sitting)
+**Links:** [LinkedIn](https://www.linkedin.com/in/aaron-modiyil-joseph/) | [GitHub](https://github.com/aaronmj7) | [Email](mailto:aaronjoseph1135@gmail.com)
 
 ---
 
