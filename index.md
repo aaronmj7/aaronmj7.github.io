@@ -5,7 +5,6 @@ description: MSc Data Science Graduate & Aspiring Actuary
 ---
 
 **Watford, UK** | **MSc Data Science** | **IFoA CS1** 
-[LinkedIn](https://www.linkedin.com/in/aaron-modiyil-joseph/) • [GitHub](https://github.com/aaronmj7) • [Email](mailto:aaronjoseph1135@gmail.com) • [Download Full CV](#)
 
 Welcome to my project portfolio. I specialize in statistical modeling, time-series forecasting, and risk interpretation. While my CV covers my complete academic and professional background, this space is dedicated entirely to showcasing my technical work and its real-world actuarial applications.
 
