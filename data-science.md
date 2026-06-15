@@ -161,3 +161,11 @@ A time-series forecasting project analysing historical market data to identify t
 </details>
 
 <br>
+
+---
+
+For a detailed overview of my education, experience, certifications, and technical skills:
+
+
+
+[Download CV](https://aaronmj7.github.io/assets/Aaron_Modiyil_Joseph_DS_CV.pdf)
