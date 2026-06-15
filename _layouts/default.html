@@ -28,7 +28,11 @@
         <a href="{{ site.baseurl }}/data-science/" class="btn" style="background-color: rgba(255,255,255,0.15); border-width: 2px;">Data Science Portfolio</a>
       </div>
 
-      <a href="{{ site.baseurl }}/assets/Aaron_Modiyil_Joseph_CV.pdf" class="btn" target="_blank" title="Download CV">Download CV (PDF)</a>
+      {% if page.permalink == '/data-science/' %}
+        <a href="{{ site.baseurl }}/assets/Aaron_Modiyil_Joseph_DS_CV.pdf" class="btn" target="_blank" title="Download Data Science CV">Download CV (PDF)</a>
+      {% else %}
+        <a href="{{ site.baseurl }}/assets/Aaron_Modiyil_Joseph_CV.pdf" class="btn" target="_blank" title="Download Actuarial CV">Download CV (PDF)</a>
+      {% endif %}
       <a href="mailto:aaronjoseph1135@gmail.com" class="btn" title="Email Me">Email</a>
       <a href="https://www.linkedin.com/in/aaron-modiyil-joseph/" class="btn" target="_blank" title="LinkedIn">LinkedIn</a>
       <a href="https://github.com/aaronmj7" class="btn" target="_blank" title="GitHub">GitHub</a>
