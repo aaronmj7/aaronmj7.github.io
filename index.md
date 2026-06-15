@@ -32,7 +32,7 @@ A collaborative deep learning project designing a sequential LSTM network to pre
 🔗 **[View Source Code on GitHub](https://github.com/aaronmj7/Stock-Market-Analysis)**
 
 <details style="background-color: rgba(0,0,0,0.03); padding: 15px; border-radius: 8px; margin-top: 15px; cursor: pointer;">
-  <summary style="font-weight: bold; font-size: 1.1em; color: #1b365d;">
+  <summary style="font-weight: bold; font-size: 1.1em; color: #1e40af;">
     📄 View Detailed Report & Methodology (Click to Expand)
   </summary>
   
@@ -66,7 +66,7 @@ A benchmark study evaluating traditional econometric methods against deep learni
 🔗 **[View Source Code on GitHub](https://github.com/aaronmj7/Time-Series-Modelling-Case-Study)**
 
 <details style="background-color: rgba(0,0,0,0.03); padding: 15px; border-radius: 8px; margin-top: 15px; cursor: pointer;">
-  <summary style="font-weight: bold; font-size: 1.1em; color: #1b365d;">
+  <summary style="font-weight: bold; font-size: 1.1em; color: #1e40af;">
     📄 View Detailed Report & Methodology (Click to Expand)
   </summary>
   
@@ -100,7 +100,7 @@ An unsupervised machine learning study comparing clustering architectures on a l
 🔗 **[View Source Code on GitHub](https://github.com/aaronmj7/Assignment_DMD)**
 
 <details style="background-color: rgba(0,0,0,0.03); padding: 15px; border-radius: 8px; margin-top: 15px; cursor: pointer;">
-  <summary style="font-weight: bold; font-size: 1.1em; color: #1b365d;">
+  <summary style="font-weight: bold; font-size: 1.1em; color: #1e40af;">
     📄 View Detailed Report & Methodology (Click to Expand)
   </summary>
   
@@ -135,7 +135,7 @@ A Research project utilizing attention mechanisms and SHAP values to predict use
 🔗 **[View Source Code on GitHub](https://github.com/aaronmj7/MSc_project)**
 
 <details style="background-color: rgba(0,0,0,0.03); padding: 15px; border-radius: 8px; margin-top: 15px; cursor: pointer;">
-  <summary style="font-weight: bold; font-size: 1.1em; color: #1b365d;">
+  <summary style="font-weight: bold; font-size: 1.1em; color: #1e40af;">
     📄 View Detailed Report & Methodology (Click to Expand)
   </summary>
   

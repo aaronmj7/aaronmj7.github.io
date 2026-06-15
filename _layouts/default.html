@@ -19,11 +19,15 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
   
-      <!-- Modern, Clean Metadata Line -->
       <p style="color: rgba(255, 255, 255, 0.85); font-size: 1.1rem; margin-top: -1rem; margin-bottom: 2rem;">
         Watford, London, UK
       </p>
-      <!-- Header Buttons -->
+      
+      <div style="margin-bottom: 1.5rem;">
+        <a href="{{ site.baseurl }}/" class="btn" style="background-color: rgba(255,255,255,0.15); border-width: 2px;">Actuarial & Risk Portfolio</a>
+        <a href="{{ site.baseurl }}/data-science/" class="btn" style="background-color: rgba(255,255,255,0.15); border-width: 2px;">Data Science Portfolio</a>
+      </div>
+
       <a href="{{ site.baseurl }}/assets/Aaron_Modiyil_Joseph_CV.pdf" class="btn" target="_blank" title="Download CV">Download CV (PDF)</a>
       <a href="mailto:aaronjoseph1135@gmail.com" class="btn" title="Email Me">Email</a>
       <a href="https://www.linkedin.com/in/aaron-modiyil-joseph/" class="btn" target="_blank" title="LinkedIn">LinkedIn</a>
